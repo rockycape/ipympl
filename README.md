@@ -7,6 +7,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matplotlib/ipympl/stable?urlpath=retro/notebooks/docs/examples/full-example.ipynb)
 [![Gitter](https://img.shields.io/badge/gitter-Join_chat-blue?logo=gitter)](https://gitter.im/jupyter-widgets/Lobby)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rockycape/ipympl/main)
+
 Leveraging the Jupyter interactive widgets framework, `ipympl` enables the interactive features of matplotlib in the Jupyter notebook and in JupyterLab.
 
 Besides, the figure `canvas` element is a proper Jupyter interactive widget which can be positioned in interactive widget layouts.
